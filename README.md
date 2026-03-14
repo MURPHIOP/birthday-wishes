@@ -1,36 +1,148 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Interactive%20Birthday%20Experience&fontSize=45&fontColor=ffffff&animation=twinkling&desc=An%20Elite%20Frontend%20Journey&descSize=20&descColor=ffffff" width="100%" />
+</p>
 
-## Getting Started
+<p align="center">
+  <a href="https://github.com/MURPHIOP">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Quicksand&weight=800&size=22&center=true&vCenter=true&width=600&height=50&color=FF7EB3&lines=Next.js+App+Router+⚡;Framer+Motion+Physics+🎯;GSAP+Scroll+Animations+🌪️;Tailwind+CSS+Styling+🎨" />
+  </a>
+</p>
 
-First, run the development server:
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
+</p>
+
+---
+
+# 🎉 Ashmita Birthday Interactive Website
+
+A **custom interactive birthday website** built with modern frontend technologies to create a **fun, cute, and chaotic best-friend style experience**.
+
+This project focuses on:
+
+- Smooth **60FPS animations**
+- **Game-like UI interactions**
+- Cute **pink aesthetic**
+- Interactive storytelling
+- Modern frontend architecture
+
+# ✨ Interactive Features
+
+<details>
+<summary><b>🎨 Animated Aesthetic Background</b></summary>
+
+Hardware accelerated gradient background with floating particles and smooth transitions.
+
+</details>
+
+<details>
+<summary><b>📸 Draggable Polaroid Gallery</b></summary>
+
+Interactive image gallery built using **Framer Motion** with:
+
+- hover tilt animations
+- draggable polaroid cards
+- modal image viewer
+
+</details>
+
+<details>
+<summary><b>💬 Scroll Storytelling</b></summary>
+
+Birthday message revealed using **GSAP ScrollTrigger** with animated comic-style text bubbles.
+
+</details>
+
+<details>
+<summary><b>🎮 Mini Game</b></summary>
+
+A small React mini-game where the user catches falling hearts.
+
+Includes:
+
+- score system
+- animations
+- confetti celebration
+
+</details>
+
+<details>
+<summary><b>🎁 Surprise Gift Section</b></summary>
+
+A funny surprise gift reveal with animation and a hidden chipkali image.
+
+</details>
+
+---
+
+# ⚙️ Installation & Setup
+
+Clone the repository and run locally.
 
 ```bash
+# Clone repo
+git clone https://github.com/MURPHIOP/ashmita-bday-site.git
+
+# Enter project
+cd ashmita-bday-site
+
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+````
+
+Open:
+
+```
+http://localhost:3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# 🛠 Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Technology    | Usage             |
+| ------------- | ----------------- |
+| Next.js       | React framework   |
+| React         | UI Components     |
+| Tailwind CSS  | Styling           |
+| Framer Motion | Animations        |
+| GSAP          | Scroll animations |
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+# 👨‍💻 Developer
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<p align="center">
+<b>Designed & Developed by</b>
+</p>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<p align="center">
+<a href="https://github.com/MURPHIOP"><b>Shreyan Mitra</b></a>
+</p>
 
-## Deploy on Vercel
+<p align="center">
+Elite Frontend Developer • AI/ML Enthusiast • Interactive Experience Builder
+</p>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<p align="center">
+<a href="https://github.com/MURPHIOP">
+<img src="https://img.shields.io/badge/GitHub-MURPHIOP-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="mailto:mitrashreyan2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+```
